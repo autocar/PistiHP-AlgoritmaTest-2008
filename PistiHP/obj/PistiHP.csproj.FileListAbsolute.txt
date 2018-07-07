@@ -1,0 +1,8 @@
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\bin\Debug\PistiHP.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\bin\Debug\PistiHP.pdb
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\PistiHP.Form1.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\PistiHP.Properties.Resources.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\PistiHP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\PistiHP.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\PistiHP\PistiHP\obj\Debug\PistiHP.pdb
